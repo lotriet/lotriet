@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi! 👋 I'm Christo 
 
-<!--
-**lotriet/lotriet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Developer | North Carolina 🏛️**
 
-Here are some ideas to get you started:
+> Building secure payment systems & optimizing databases for government services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lotriet&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 📫 Connect
+📧 [gclotriet@outlook.com](mailto:gclotriet@outlook.com) | 🌐 [Portfolio](https://lotriet.github.io) | 💼 [LinkedIn](https://linkedin.com/in/christo-lotriet)
