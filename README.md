@@ -15,4 +15,4 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
 ### 📫 Connect
-📧 [gclotriet@outlook.com](mailto:gclotriet@outlook.com) | 🌐 [Portfolio](https://lotriet.github.io) | 💼 [LinkedIn](linkedin.com/in/gclotriet)
+📧 [gclotriet@outlook.com](mailto:gclotriet@outlook.com) | 🌐 [Portfolio](https://lotriet.github.io) | 💼 [LinkedIn](https://linkedin.com/in/gclotriet)
