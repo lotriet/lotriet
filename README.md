@@ -2,7 +2,7 @@
 
 # Hi! 👋 I'm Christo
 
-### Senior Software Developer | 15+ Years | North Carolina 🏛️
+### Senior Software Developer  North Carolina 🏛️
 
 *Building secure payment systems & optimizing databases for government services*
 
