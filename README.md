@@ -2,9 +2,6 @@
 
 # Hi! 👋 I'm Christo
 
-<div align="center">
-  <img src="https://source.boringavatars.com/marble/200/christo-lotriet?colors=264653,2a9d8f,e9c46a,f4a261,e76f51" width="150" height="150" style="border-radius: 50%;" alt="Christo Lotriet Avatar"/>
-  
 ### Senior Software Developer  North Carolina 🏛️
 
 *Experienced developer focused on quality and results*
