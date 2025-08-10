@@ -4,7 +4,7 @@
 
 ### Senior Software Developer  North Carolina 🏛️
 
-*Building secure payment systems & optimizing databases for government services*
+*Experienced developer focused on quality and results*
 
 ---
 
