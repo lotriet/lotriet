@@ -2,7 +2,7 @@
 
 # Hi! 👋 I'm Christo
 
-### Senior Software Developer  North Carolina 🏛️
+### Senior Software Developer
 
 *Experienced developer focused on quality and results*
 
