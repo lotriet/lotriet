@@ -22,6 +22,11 @@
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
+<p align="center">
+  <!-- Delphi (minimal) -->
+  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
