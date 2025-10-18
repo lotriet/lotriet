@@ -39,6 +39,8 @@
 
 **Latest:** [Faster Prefix Search in MySQL with Normalized Columns](https://github.com/lotriet/knowledge-base/blob/main/database/mysql-prefix-search-normalized-column.md)
 
+> Implemented prefix-indexed normalized columns, significantly improving query performance for user search features in MySQL.
+
 ---
 
 ## 📊 GitHub Stats
