@@ -29,6 +29,18 @@
 
 ---
 
+## 📝 Technical Articles
+
+<p align="center">
+  <a href="https://github.com/lotriet/knowledge-base/blob/main/database/mysql-prefix-search-normalized-column.md">
+    <img src="https://img.shields.io/badge/MySQL-Prefix_Search_Optimization-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Article"/>
+  </a>
+</p>
+
+**Latest:** [Faster Prefix Search in MySQL with Normalized Columns](https://github.com/lotriet/knowledge-base/blob/main/database/mysql-prefix-search-normalized-column.md)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotriet&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8)
